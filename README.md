@@ -11,8 +11,6 @@ First, run the development server:
 git clone git@github.com:hbghaffar01/inifinite-web-app.git
 # install packages
 npm install
-#run project
-
 # docker build
 npm run docker:build
 # run docker
