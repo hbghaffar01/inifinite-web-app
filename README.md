@@ -13,8 +13,12 @@ git clone git@github.com:hbghaffar01/inifinite-web-app.git
 npm install
 # docker build
 npm run docker:build
+# docker compose build
+npm run compose:build
 # run docker
 npm run docker:run
+# OR run docker compose up simply
+npm run compose:up
 # or run locally
 npm run dev
 # or
